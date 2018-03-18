@@ -48,7 +48,7 @@ class Owner
   end
 end
   
-walk_dogs
+
 binding.pry
 
 end
