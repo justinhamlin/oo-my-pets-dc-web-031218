@@ -1,5 +1,7 @@
 class Owner
   
   def initialize
-    @pets = Dir["/path/to/search/**/*.rb"]
+    @pets = {fishes: [], cats: [], dogs: []}
+  end
+  
 end
