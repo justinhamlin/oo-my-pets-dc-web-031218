@@ -65,4 +65,8 @@ def feed_fish
       fish.mood = "happy"
   end
   end
+  
+def sell_pets
+end
+
 end
