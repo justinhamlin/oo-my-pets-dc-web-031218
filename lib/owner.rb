@@ -13,4 +13,8 @@ class Owner
     @@owners = []
   end
   
+  def self.reset_all
+    @@owners.count
+  end
+  
 end
