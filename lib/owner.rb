@@ -50,5 +50,6 @@ end
   
 
 binding.pry
+walk_dogs
 
 end
