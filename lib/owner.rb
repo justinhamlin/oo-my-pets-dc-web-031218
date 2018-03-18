@@ -6,8 +6,8 @@ class Owner
   def initialize(name)
     @name = name
     @pets = {fishes: [], cats: [], dogs: []}
-    @@owners << self
-    self.count
+  self.count  @@owners << self
+    
   end
   
   def self.all
